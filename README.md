@@ -1,2 +1,1 @@
-# daddy-
-Computer science engineering at enit
+# hello-world
